@@ -1,8 +1,8 @@
 {
-    "name": "Zaid Vc Player",
+    "name": "MUSIC-BOTOP",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
-    "keywords": ["music", "voice chat", "telegram", "Zaid", "ZaidMusic", "Zaid Vc Music"],
-    "repository": "https://github.com/Itz-Zaid/Zaid-Vc-Player",
+    "keywords": ["music", "voice chat", "telegram", "Toxic", "ToxicMusic", "MUSIC-BOTOP"],
+    "repository": "https://github.com/TOXIC-BOY-OP/MUSIC-BOTOP",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
