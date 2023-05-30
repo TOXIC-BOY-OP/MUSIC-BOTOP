@@ -11,13 +11,13 @@ A telegram Music bot Source Code By Using PyroGram Client
 - [2nd Telegram Account](https://telegram.org/blog/themes-accounts#multiple-accounts) (needed for userbot)
 
 # Repo Statistics
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=Zaid-Vc-Player&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-BOY-OP&repo=MUSIC-BOTOP&theme=dark)
 
 #
 
 <p align="center">Deploy with Cloner Bot</p>
 
-<p align="center"><a href="https://github.com/ITZ-ZAID/Zaid-Vc-Player/tree/clone"> <img src="https://img.shields.io/badge/Cloner%20Branch-blue?style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://github.com/TOXIC-BOY-OP/MUSIC-BOTOP/tree/clone"> <img src="https://img.shields.io/badge/Cloner%20Branch-blue?style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
 
 
 #
@@ -36,7 +36,7 @@ A telegram Music bot Source Code By Using PyroGram Client
 ### Commands 🛠
 Read All Commands
 
-[Click](https://telegra.ph/𝗕ooo--‌ᴀꜰᴋ-ᴏꜰꜰʟɪɴᴇ-08-19-2)
+[Click](https://graph.org/file/db0705d103a75a09597be.jpg)
 
 # Deploy
 
@@ -50,8 +50,8 @@ Read All Commands
 
 We Suggest To use Debian v-11 else ubuntu v-20+
 ```console
-$ git clone https://github.com/ITZ-ZAID/Zaid-Vc-Player
-$ cd Zaid-Vc-Player
+$ git clone https://github.com/TOXIC-BOY-OP/MUSIC-BOTOP
+$ cd MUSIC-BOTOP
 $ bash setup
 $ cp sample.env .env
 ```
@@ -68,8 +68,8 @@ $ python3 -m Zaid
 
 <p align="center">Support / Channel ----> </p>
 
-<p align="center"><a href="https://t.me/TheSupportChat"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
-<p align="center"><a href="https://t.me/TheUpdatesChannel"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/DOSTO_KI_M3HFIL"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/SHAYERI_WORLD"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
 
 # Credits
 - PyroGram
